@@ -1,14 +1,19 @@
 # CodSoft_AI_Tasks
-## TASK 1
-CHATBOT WITH RULE-BASED
+## Task 1:CHATBOT WITH RULE-BASED
+
+### Description
 
 Build a simple chatbot that responds to user inputs based on predefined rules. Use if-else statements or pattern matching techniques to identify user queries and provide appropriate responses. This will give you a basic understanding of natural language processing and conversation flow.
+
+![image](https://github.com/user-attachments/assets/fb1ec4d9-3a7a-4abb-b266-fa141607c2aa)
+
 
 ## Task 3: Image-to-Text Generation
 
 ### Description
 
 This task uses deep learning models to convert images into textual descriptions. The goal is to automatically generate descriptive and context-aware text from input images. The model is trained on a large dataset and uses advanced techniques such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) to generate captions.
+![image](https://github.com/user-attachments/assets/2fac479e-9e09-4ba9-9aab-d1d32ed6227c)
 
 ### Key Features:
 - **Automatic Caption Generation**: Convert any image into a detailed, context-aware caption.
@@ -31,6 +36,7 @@ This task uses deep learning models to convert images into textual descriptions.
 ### Description
 
 This task involves creating a book recommendation system that suggests books to users based on their preferences. The system uses machine learning techniques to analyze user ratings and book metadata to recommend personalized books.
+![image](https://github.com/user-attachments/assets/734d9db8-6ad1-4801-ae7a-9117b0842b98)
 
 ### Key Features:
 - **Personalized Recommendations**: Recommends books based on user interests and reading history.
